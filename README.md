@@ -18,8 +18,6 @@ A modern digital banking application built with Spring Boot 3.5.0, implementing 
 - [GraphQL Integration](#graphql-integration)
 - [Security](#security)
 - [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🚀 Overview
 
@@ -280,12 +278,5 @@ Security configuration can be found in `src/main/java/config/SecurityConfig.java
 1. Compile native image: `./mvnw native:compile -Pnative`
 2. Deploy the native executable for faster startup and lower memory usage
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 **Built with ❤️ using Spring Boot and modern Java technologies** 
