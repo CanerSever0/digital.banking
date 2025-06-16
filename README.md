@@ -288,25 +288,4 @@ Security configuration can be found in `src/main/java/config/SecurityConfig.java
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-### Code Style
-
-- Follow Java coding conventions
-- Use Lombok annotations where appropriate
-- Write comprehensive tests
-- Update documentation as needed
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📞 Support
-
-For support and questions:
-
-- Create an issue in the repository
-- Check the documentation
-- Review the HELP.md file for additional Spring Boot guidance
-
----
-
 **Built with ❤️ using Spring Boot and modern Java technologies** 
